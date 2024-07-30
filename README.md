@@ -38,6 +38,12 @@ Instructions allow you to influence the behavior of your custom GPT. You can cop
 
 Experiment with adding new instructions to your custom GPT. Could your custom GPT could speak like a pirate? Compose a daily mindfulness report? Write a limerick about your average heart rate?
 
+### Code Interpreter & Data Analysis
+Under the capabilities section, ensure below mentioned options are checked.
+1. Web Browsing
+2. DALL·E Image Generation
+3. Code Interpreter & Data Analysis
+
 ### Configure Fulcra Life API Action
 
 Under **Actions**, click on the **Create new action** button.
